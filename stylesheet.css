@@ -1,0 +1,77 @@
+body {
+    background-color: var(--background-color);
+}
+
+.header {
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    text-align: center;
+    font-size: 80px;
+}
+
+.description {
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: small;
+}
+
+.menu-option {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.menu-option li {
+    margin: 0 20px;
+}
+
+.menu-button {
+    display: block;
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+    border-radius: 20px;
+}
+.menu-button:hover {
+    background-color: var(--secondary-color);
+    font-weight: lighter;
+}
+
+.img-logo {
+    display: block;
+    width: 40px;
+    height: auto;
+}
+
+.main-btn {
+    display: inline-block;
+    color: black;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-size: medium;
+    text-decoration: none;
+    padding: 2px 20px;
+    background-color: white;
+    border-radius: 30px;
+    transition: opacity 0.3s ease;
+}
+.main-btn:hover {
+    opacity: 60%;
+}
+
+.end-credits {
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: smaller;
+    text-align: center;
+    opacity: 75%;
+}
+

@@ -1,9 +1,0 @@
-* About
-* Connect
-
-REMI Team
-
-The REMI team is a dynamic trio of high school students passionate about computer science and game development. The team consists of Reymo Je, a graphics and art enthusiast who brings vibrant visuals and creativity to their projects; Marsverdi, who specializes in gameplay and combat design, crafting engaging and immersive game mechanics; and Moqyachiino, who focuses on narrative design, design, and art, weaving compelling stories and aesthetics into their work. Together, they combine their talents to create unique and innovative gaming experiences.
-
-/ SMANA image /
-desc about smana
